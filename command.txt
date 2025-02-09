@@ -1,0 +1,1 @@
+python evaler.py --dataset_path Sort-of-CLEVR_default --model rn --checkpoint_path /Users/arundhatiraj/Downloads/Relation-Network-Tensorflow-master-Backup/train_dir/rn-default-Sort-of-CLEVR_default_lr_0.00025-20210408-165224/model-34001.meta
