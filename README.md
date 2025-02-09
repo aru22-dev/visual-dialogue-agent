@@ -10,6 +10,15 @@ A Deep Learning-powered **Visual Dialog Agent** that understands and interacts w
 ✅ Trained on **CLEVR and VQA datasets**  
 ✅ Efficient **dialog memory** for human-like conversation 
 
+## 🖼 Project Working Screenshot
+
+<img width="720" alt="image" src="https://github.com/user-attachments/assets/d746e42b-3322-4064-9d18-e3443adef6a8" />
+<img width="720" alt="image" src="https://github.com/user-attachments/assets/1c4287a1-f786-46de-986d-41fe562f458e" />
+
+
+## 🎥 Demo Video
+[[Watch the demo](https://drive.google.com/file/d/1QNgveNLcj32MfDgZnQMpuYZ9QiFk99Ag/view?usp=drive_link)]
+
 ## 📊 Performance
 
 📈 **Accuracy:**  
@@ -42,7 +51,7 @@ python src/evaler.py --image path/to/image.jpg --question "What is to the left o
 ## 📜 Citation
 If you use this work, please cite:
 ```
-@article{yraj2021visualdialog,
+@article{raj2021visualdialog,
   title={Visual Dialog Agent Based On Deep Q Learning and Memory Module Networks},
   author={Arundhati Raj and Shubhangi Srivastava and Aniruddh Suresh Pillai and Ajay Kumar},
   journal={International Journal of Advanced Research in Science, Communication and Technology (IJARSCT)},
